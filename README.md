@@ -56,10 +56,10 @@
     // Add any keybinding overrides to this array.
     // To unbind a default keybinding, set the command to "unbound"
     "keybindings": [
+        { "command": "newTab",          "keys": [ "ctrl+t" ]        },
         { "command": "closeTab",        "keys": [ "ctrl+w" ]        },
         { "command": "nextTab",         "keys": [ "ctrl+pagedown" ] },
         { "command": "prevTab",         "keys": [ "ctrl+pageup" ]   },
-        { "command": "newTab",          "keys": [ "ctrl+t" ]        },
         { "command": "copy",            "keys": [ "alt+c" ]  },
         { "command": "paste",           "keys": [ "alt+v" ]  },
         { "command": "splitHorizontal", "keys": [ "ctrl+shift+h" ]  },
