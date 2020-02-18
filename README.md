@@ -1,5 +1,7 @@
 # Windows_Termial_setting
 
+```
+
 // To view the default settings, hold "alt" while clicking on the "Settings" button.
 // For documentation on these settings, see: https://aka.ms/terminal-documentation
 
@@ -69,3 +71,4 @@
     ]
 }
 
+```
